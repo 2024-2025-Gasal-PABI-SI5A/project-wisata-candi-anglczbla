@@ -1,4 +1,5 @@
-import 'package:candi/models/candi.dart';
+// import 'package:candi/models/candi.dart';
+import 'package:pab_angel/models/candi.dart';
 
 var candiList = [
   Candi(
